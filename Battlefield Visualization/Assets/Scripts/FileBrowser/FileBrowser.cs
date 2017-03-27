@@ -51,17 +51,17 @@ public class FileBrowser : MonoBehaviour
 
     public void OpenFileWindow_blue()
     {
-        UniFileBrowser.use.OpenFileWindow(SetBlueFile);
+        CustomFileBrowser.use.OpenFileWindow(SetBlueFile);
     }
 
     public void OpenFileWindow_neutral()
     {
-        UniFileBrowser.use.OpenFileWindow(SetNeutralFile);
+        CustomFileBrowser.use.OpenFileWindow(SetNeutralFile);
     }
 
     public void OpenFileWindow_red()
     {
-        UniFileBrowser.use.OpenFileWindow(SetRedFile);
+        CustomFileBrowser.use.OpenFileWindow(SetRedFile);
     }
 
     void SetBlueFile(string pathToFile)

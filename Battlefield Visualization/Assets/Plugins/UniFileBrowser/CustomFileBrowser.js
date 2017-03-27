@@ -1,12 +1,10 @@
-// UniFileBrowser 2.4.1
-// © 2014 Starscene Software. All rights reserved. Redistribution without permission not allowed.
 
 #pragma strict
 
 import System.IO;
 import System.Collections.Generic;
 
-class UniFileBrowser extends MonoBehaviour {
+class CustomFileBrowser extends MonoBehaviour {
     enum SortType {Name, DateNewest, DateOldest}
 
     var filterFiles = false;			// Filter file names by the items in the filterFileExtensions array
@@ -120,7 +118,7 @@ class UniFileBrowser extends MonoBehaviour {
     private var sendChangeMessage = false;
     private var changeWindowFunction : function();
     private var lastRect : Rect;
-    public static var use : UniFileBrowser;
+    public static var use : CustomFileBrowser;
     private var clickTimer = 0.0;
     private var clicked = false;
     private var keyboardControlID : int;
@@ -153,9 +151,9 @@ class UniFileBrowser extends MonoBehaviour {
             var paths = AssetDatabase.GetAllAssetPaths();
             for (var path in paths) {
                 var pathString = path.ToLower();
-                if (pathString.Contains ("unifilebrowserguiskin")) {
+                if (pathString.Contains ("customfilebrowserguiskin")) {
                     var skin = AssetDatabase.LoadAssetAtPath (path, GUISkin);
-                    if (skin != null && skin.name.ToLower() == "unifilebrowserguiskin") {
+                    if (skin != null && skin.name.ToLower() == "customfilebrowserguiskin") {
                         guiSkin = skin;
                     }
                 }
@@ -179,7 +177,7 @@ class UniFileBrowser extends MonoBehaviour {
         function Awake () {
             enabled = false;
             if (!guiSkin) {
-                Debug.LogError ("UniFileBrowser GUI skin missing");
+                Debug.LogError ("CustomFileBrowser GUI skin missing");
                 return;
             }
 		
@@ -208,7 +206,7 @@ class UniFileBrowser extends MonoBehaviour {
                 scrollViewStyle.clipping = TextClipping.Clip;
             }
             catch (err) {
-                Debug.LogError ("The GUISkin for UniFileBrowser must contain a style called \"listScrollview\"");
+                Debug.LogError ("The GUISkin for CustomFileBrowser must contain a style called \"listScrollview\"");
                 return;
             }
             scrollViewStyleSelected = new GUIStyle (scrollViewStyle);
@@ -218,21 +216,21 @@ class UniFileBrowser extends MonoBehaviour {
                 popupListStyle = guiSkin.GetStyle ("popupList");
             }
             catch (err) {
-                Debug.LogError ("The GUISkin for UniFileBrowser must contain a style called \"popupList\"");
+                Debug.LogError ("The GUISkin for CustomFileBrowser must contain a style called \"popupList\"");
                 return;
             }
             try {
                 popupButtonStyle = guiSkin.GetStyle ("popupButton");
             }
             catch (err) {
-                Debug.LogError ("The GUISkin for UniFileBrowser must contain a style called \"popupButton\"");
+                Debug.LogError ("The GUISkin for CustomFileBrowser must contain a style called \"popupButton\"");
                 return;
             }
             try {
                 popupBoxStyle = guiSkin.GetStyle ("popupBox");
             }
             catch (err) {
-                Debug.LogError ("The GUISkin for UniFileBrowser must contain a style called \"popupBox\"");
+                Debug.LogError ("The GUISkin for CustomFileBrowser must contain a style called \"popupBox\"");
                 return;
             }
             messageWindowStyle = new GUIStyle (guiSkin.window);
