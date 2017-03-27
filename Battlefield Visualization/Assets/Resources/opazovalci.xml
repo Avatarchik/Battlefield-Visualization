@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<ForceOrg>
+  <UNIT>
+    <JCATS_ID>4153</JCATS_ID>
+    <NAME>observer</NAME>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_CanAggregate>0</JCATS_CanAggregate>
+    <JCATS_ForceAssignment></JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>34978</JCATS_ID>
+    <NAME>HE COUGAR_34978</NAME>
+    <JCATS_SystemCharName>HE COUGAR</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>4153</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+    <JCATS_ForceAssignment>WS23</JCATS_ForceAssignment>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>9236</JCATS_ID>
+    <NAME>Begunci</NAME>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>81559</JCATS_AggID>
+    <JCATS_AggClassSymbol>969</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>248</JCATS_AggSymbol>
+    <JCATS_AggFormation>0</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>100</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>10</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>25</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0.5</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0.25</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment></JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>81600</JCATS_ID>
+    <NAME>CIVILIAN GROUP_81600</NAME>
+    <JCATS_SystemCharName>CIVILIAN GROUP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>9236</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>81601</JCATS_ID>
+    <NAME>CIVILIAN GROUP_81601</NAME>
+    <JCATS_SystemCharName>CIVILIAN GROUP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>9236</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>81602</JCATS_ID>
+    <NAME>CIVILIAN GROUP_81602</NAME>
+    <JCATS_SystemCharName>CIVILIAN GROUP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>9236</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>81603</JCATS_ID>
+    <NAME>CIVILIAN GROUP_81603</NAME>
+    <JCATS_SystemCharName>CIVILIAN GROUP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>9236</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>81604</JCATS_ID>
+    <NAME>CIVILIAN GROUP_81604</NAME>
+    <JCATS_SystemCharName>CIVILIAN GROUP</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>9236</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>81605</JCATS_ID>
+    <NAME>CIVILIAN BUS_81605</NAME>
+    <JCATS_SystemCharName>CIVILIAN BUS</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>9236</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>9237</JCATS_ID>
+    <NAME>IED</NAME>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>81606</JCATS_AggID>
+    <JCATS_AggClassSymbol>969</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>SPECIAL\IED</JCATS_AggSymbol>
+    <JCATS_AggFormation>0</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>100</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>10</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>25</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0.5</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0.25</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment></JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>81607</JCATS_ID>
+    <NAME>IED 1000 LB_81607</NAME>
+    <JCATS_SystemCharName>IED 1000 LB</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>9237</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <UNIT>
+    <JCATS_ID>9238</JCATS_ID>
+    <NAME>Stavba IED</NAME>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_CanAggregate>1</JCATS_CanAggregate>
+    <JCATS_AggID>81608</JCATS_AggID>
+    <JCATS_AggClassSymbol>BUILDING</JCATS_AggClassSymbol>
+    <JCATS_AggSymbol>SPECIAL\IED</JCATS_AggSymbol>
+    <JCATS_AggFormation>0</JCATS_AggFormation>
+    <JCATS_AggFormupRadius>100</JCATS_AggFormupRadius>
+    <JCATS_AggFormationSpacing>10</JCATS_AggFormationSpacing>
+    <JCATS_AggMountRadius>25</JCATS_AggMountRadius>
+    <JCATS_AggPartialDefladeFraction>0.5</JCATS_AggPartialDefladeFraction>
+    <JCATS_AggFullDefladeFraction>0.25</JCATS_AggFullDefladeFraction>
+    <JCATS_AggMobilityType>1</JCATS_AggMobilityType>
+    <JCATS_ForceAssignment></JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>81609</JCATS_ID>
+    <NAME>Office Bldg_81609</NAME>
+    <JCATS_SystemCharName>Office Bldg</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>9238</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+  <SYSTEM>
+    <JCATS_ID>81610</JCATS_ID>
+    <NAME>IED 1500 LB_81610</NAME>
+    <JCATS_SystemCharName>IED 1500 LB</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>9238</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+</ForceOrg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<ForceOrg>
+  <UNIT>
+    <JCATS_ID>2958</JCATS_ID>
+    <NAME>observer</NAME>
+    <SERVICE>UNK</SERVICE>
+    <ECHELON>UNK</ECHELON>
+    <OTH-GOLD_SYMBOL>UNK</OTH-GOLD_SYMBOL>
+    <OTH-GOLD_ORG_TYPE>UNK</OTH-GOLD_ORG_TYPE>
+    <JCATS_DsUnitID>-1</JCATS_DsUnitID>
+    <JCATS_CanDeclutter>0</JCATS_CanDeclutter>
+    <JCATS_CanAggregate>0</JCATS_CanAggregate>
+    <JCATS_ForceAssignment>WS23</JCATS_ForceAssignment>
+    <JCATS_MountedOnID>0</JCATS_MountedOnID>
+    <JCATS_MountedAsCrew>0</JCATS_MountedAsCrew>
+  </UNIT>
+  <SYSTEM>
+    <JCATS_ID>26130</JCATS_ID>
+    <NAME>HE COUGAR_26130</NAME>
+    <JCATS_SystemCharName>HE COUGAR</JCATS_SystemCharName>
+    <JCATS_ToeSuperID>2958</JCATS_ToeSuperID>
+    <JCATS_FuelFraction>1</JCATS_FuelFraction>
+    <JCATS_AmmoFraction>1</JCATS_AmmoFraction>
+  </SYSTEM>
+</ForceOrg>
