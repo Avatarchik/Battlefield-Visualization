@@ -39,7 +39,7 @@ public class MapTilesHandler : MonoBehaviour
         mapTilesClient = new MapTilesClient();
 
         // load transparent texture     
-        transparentTexture = Resources.Load("transparent") as Texture;
+        transparentTexture = Resources.Load("Textures/transparent") as Texture;
 
         // add placeholders for each zoom level list
         // which zoom levels are seen on certain camera height
