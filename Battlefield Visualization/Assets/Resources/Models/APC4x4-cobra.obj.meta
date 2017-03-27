@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 7c8f07ab95e5b9743a64d4fca25e8a62
+timeCreated: 1473657511
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: default
+    100004: SWIMblck_15
+    100006: SWIMbody_17
+    100008: SWIMflat_16
+    100010: SWIMglas_12
+    100012: SWIMmetl_13
+    100014: SWIMnet_11
+    100016: SWIMoxid_8
+    100018: SWIMplst_2
+    100020: SWIMpltB_7
+    100022: SWIMpltF_6
+    100024: SWIMshov_3
+    100026: SWIMsit1_4
+    100028: SWIMsit2_1
+    100030: SWIMss_0
+    100032: SWIMtop_5
+    100034: SWIMtrnk_14
+    100036: SWIMwheK_9
+    100038: SWIMwhel_18
+    100040: SWIMwood_10
+    400000: //RootNode
+    400002: default
+    400004: SWIMblck_15
+    400006: SWIMbody_17
+    400008: SWIMflat_16
+    400010: SWIMglas_12
+    400012: SWIMmetl_13
+    400014: SWIMnet_11
+    400016: SWIMoxid_8
+    400018: SWIMplst_2
+    400020: SWIMpltB_7
+    400022: SWIMpltF_6
+    400024: SWIMshov_3
+    400026: SWIMsit1_4
+    400028: SWIMsit2_1
+    400030: SWIMss_0
+    400032: SWIMtop_5
+    400034: SWIMtrnk_14
+    400036: SWIMwheK_9
+    400038: SWIMwhel_18
+    400040: SWIMwood_10
+    2300000: default
+    2300002: SWIMblck_15
+    2300004: SWIMbody_17
+    2300006: SWIMflat_16
+    2300008: SWIMglas_12
+    2300010: SWIMmetl_13
+    2300012: SWIMnet_11
+    2300014: SWIMoxid_8
+    2300016: SWIMplst_2
+    2300018: SWIMpltB_7
+    2300020: SWIMpltF_6
+    2300022: SWIMshov_3
+    2300024: SWIMsit1_4
+    2300026: SWIMsit2_1
+    2300028: SWIMss_0
+    2300030: SWIMtop_5
+    2300032: SWIMtrnk_14
+    2300034: SWIMwheK_9
+    2300036: SWIMwhel_18
+    2300038: SWIMwood_10
+    3300000: default
+    3300002: SWIMblck_15
+    3300004: SWIMbody_17
+    3300006: SWIMflat_16
+    3300008: SWIMglas_12
+    3300010: SWIMmetl_13
+    3300012: SWIMnet_11
+    3300014: SWIMoxid_8
+    3300016: SWIMplst_2
+    3300018: SWIMpltB_7
+    3300020: SWIMpltF_6
+    3300022: SWIMshov_3
+    3300024: SWIMsit1_4
+    3300026: SWIMsit2_1
+    3300028: SWIMss_0
+    3300030: SWIMtop_5
+    3300032: SWIMtrnk_14
+    3300034: SWIMwheK_9
+    3300036: SWIMwhel_18
+    3300038: SWIMwood_10
+    4300000: default
+    4300002: SWIMblck_15
+    4300004: SWIMbody_17
+    4300006: SWIMflat_16
+    4300008: SWIMglas_12
+    4300010: SWIMmetl_13
+    4300012: SWIMnet_11
+    4300014: SWIMoxid_8
+    4300016: SWIMplst_2
+    4300018: SWIMpltB_7
+    4300020: SWIMpltF_6
+    4300022: SWIMshov_3
+    4300024: SWIMsit1_4
+    4300026: SWIMsit2_1
+    4300028: SWIMss_0
+    4300030: SWIMtop_5
+    4300032: SWIMtrnk_14
+    4300034: SWIMwheK_9
+    4300036: SWIMwhel_18
+    4300038: SWIMwood_10
+    6400000: default
+    6400002: SWIMblck_15
+    6400004: SWIMbody_17
+    6400006: SWIMflat_16
+    6400008: SWIMglas_12
+    6400010: SWIMmetl_13
+    6400012: SWIMnet_11
+    6400014: SWIMoxid_8
+    6400016: SWIMplst_2
+    6400018: SWIMpltB_7
+    6400020: SWIMpltF_6
+    6400022: SWIMshov_3
+    6400024: SWIMsit1_4
+    6400026: SWIMsit2_1
+    6400028: SWIMss_0
+    6400030: SWIMtop_5
+    6400032: SWIMtrnk_14
+    6400034: SWIMwheK_9
+    6400036: SWIMwhel_18
+    6400038: SWIMwood_10
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: c5e801cc7e6025641ba7c537fea011fd
+timeCreated: 1473657514
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: HUMVEE_car
+    100004: HUMVEE_car_frontAxle
+    100006: HUMVEE_car_frontAxle_frontLeftW
+    100008: HUMVEE_car_frontAxle_frontRightW
+    100010: HUMVEE_car_frontBumper
+    100012: HUMVEE_car_grill
+    100014: HUMVEE_car_RearAxle
+    100016: HUMVEE_car_RearAxle_rearLeftW
+    100018: HUMVEE_car_RearAxle_rearRightW
+    100020: HUMVEE_car_rearBumper
+    100022: default
+    400000: //RootNode
+    400002: HUMVEE_car
+    400004: HUMVEE_car_frontAxle
+    400006: HUMVEE_car_frontAxle_frontLeftW
+    400008: HUMVEE_car_frontAxle_frontRightW
+    400010: HUMVEE_car_frontBumper
+    400012: HUMVEE_car_grill
+    400014: HUMVEE_car_RearAxle
+    400016: HUMVEE_car_RearAxle_rearLeftW
+    400018: HUMVEE_car_RearAxle_rearRightW
+    400020: HUMVEE_car_rearBumper
+    400022: default
+    2300000: HUMVEE_car
+    2300002: HUMVEE_car_frontAxle
+    2300004: HUMVEE_car_frontAxle_frontLeftW
+    2300006: HUMVEE_car_frontAxle_frontRightW
+    2300008: HUMVEE_car_frontBumper
+    2300010: HUMVEE_car_grill
+    2300012: HUMVEE_car_RearAxle
+    2300014: HUMVEE_car_RearAxle_rearLeftW
+    2300016: HUMVEE_car_RearAxle_rearRightW
+    2300018: HUMVEE_car_rearBumper
+    2300020: default
+    3300000: HUMVEE_car
+    3300002: HUMVEE_car_frontAxle
+    3300004: HUMVEE_car_frontAxle_frontLeftW
+    3300006: HUMVEE_car_frontAxle_frontRightW
+    3300008: HUMVEE_car_frontBumper
+    3300010: HUMVEE_car_grill
+    3300012: HUMVEE_car_RearAxle
+    3300014: HUMVEE_car_RearAxle_rearLeftW
+    3300016: HUMVEE_car_RearAxle_rearRightW
+    3300018: HUMVEE_car_rearBumper
+    3300020: default
+    4300000: HUMVEE_car
+    4300002: HUMVEE_car_frontAxle
+    4300004: HUMVEE_car_frontAxle_frontLeftW
+    4300006: HUMVEE_car_frontAxle_frontRightW
+    4300008: HUMVEE_car_frontBumper
+    4300010: HUMVEE_car_grill
+    4300012: HUMVEE_car_RearAxle
+    4300014: HUMVEE_car_RearAxle_rearLeftW
+    4300016: HUMVEE_car_RearAxle_rearRightW
+    4300018: HUMVEE_car_rearBumper
+    4300020: default
+    6400000: HUMVEE_car
+    6400002: HUMVEE_car_frontAxle
+    6400004: HUMVEE_car_frontAxle_frontLeftW
+    6400006: HUMVEE_car_frontAxle_frontRightW
+    6400008: HUMVEE_car_frontBumper
+    6400010: HUMVEE_car_grill
+    6400012: HUMVEE_car_RearAxle
+    6400014: HUMVEE_car_RearAxle_rearLeftW
+    6400016: HUMVEE_car_RearAxle_rearRightW
+    6400018: HUMVEE_car_rearBumper
+    6400020: default
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
